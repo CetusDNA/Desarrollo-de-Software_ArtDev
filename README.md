@@ -17,3 +17,11 @@ MisiónTic 2022 - Proyecto Ciclo 3 - Universidad de Antioquia
 ## **Tutor** ## 
 
 **Julián Bustamante Narvaez** @thejbte / thejbte@gmail.com
+
+Recursos Scrum:
+
+https://trello.com/invite/b/3PKOD9tb/221ed64338bff6a88a4236cf2ca4fa89/desarrollo-de-softwareartdev
+
+![trello-board-invite-qr-code](https://user-images.githubusercontent.com/81487436/135666349-caa6d221-9940-4398-8b6e-782d03642fe1.png)
+
+*Github Proyect
