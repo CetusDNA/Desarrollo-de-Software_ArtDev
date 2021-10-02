@@ -1,0 +1,43 @@
+
+.logo {
+  height: 100px;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+}
+.container{
+  background-color: #000000;
+  min-height: 1vh;
+  color: white;
+  width: 100%;
+  height: 120px;
+}
+
+.titulo {
+  font-size: calc(10px + 1vmin);
+}
+/* App{
+  background-color: cornflowerblue;
+  
+  
+} */
+
+.contenedor_tp{
+  display: flex;
+  align-items: auto;
+  justify-content:unset;
+  border-collapse: separate;
+  border-spacing: 1000px 500px;
+}
+
+.contenedor_btn{
+  display: flex;
+  align-items:center;
+  justify-content:space-around;
+}
+
+.boton{
+  text-align:initial;
+}
