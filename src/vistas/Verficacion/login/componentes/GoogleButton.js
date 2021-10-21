@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { PostUsuariosGoogle } from 'src/servivios';
-const googleClientId =  "292626571221-34g25skvumeoaopa32g4md3k4a2v9hk4.apps.googleusercontent.com"// process.env.REACT_APP_GOOGLE_CLIENT_ID;
+const googleClientId =  "598181744774-98lpqhclkd7ekmfmcioj6bvi9dn77sgv.apps.googleusercontent.com"// process.env.REACT_APP_GOOGLE_CLIENT_ID;
  
 const loadGoogleScript = () => {
   
